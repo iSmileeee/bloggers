@@ -10,7 +10,7 @@
 
 **A complete, production-ready blog platform built with Laravel 11, featuring modern UI/UX design and comprehensive functionality.**
 
-[🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](https://github.com/yourusername/bloggers/issues) • [✨ Request Feature](https://github.com/yourusername/bloggers/issues)
+[🐛 Report Bug](https://github.com/iSmileeee/bloggers/issues) • [✨ Request Feature](https://github.com/iSmileeee/bloggers/issues)
 
 ![Bloggers Preview](./public/screenshots/preview.png)
 
@@ -113,7 +113,7 @@ mysql --version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bloggers.git
+git clone https://github.com/iSmileeee/bloggers.git
 cd bloggers
 ```
 
