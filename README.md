@@ -12,8 +12,6 @@
 
 [🐛 Report Bug](https://github.com/iSmileeee/bloggers/issues) • [✨ Request Feature](https://github.com/iSmileeee/bloggers/issues)
 
-![Bloggers Preview](./public/screenshots/preview.png)
-
 </div>
 
 ---
