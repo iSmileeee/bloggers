@@ -338,9 +338,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Creator** - [Your Name](https://github.com/iSmileeee)
+**Project Creator** - [Edward James Grageda](https://github.com/iSmileeee)
 
-**Project Link** - [https://github.com/yourusername/bloggers](https://github.com/iSmileeee/bloggers)
+**Project Link** - [https://github.com/iSmileeee/bloggers](https://github.com/iSmileeee/bloggers)
 
 ### Support
 - 📧 Email: egrageda60@google.com
