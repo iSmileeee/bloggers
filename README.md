@@ -338,14 +338,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Creator** - [Your Name](https://github.com/yourusername)
+**Project Creator** - [Your Name](https://github.com/iSmileeee)
 
-**Project Link** - [https://github.com/yourusername/bloggers](https://github.com/yourusername/bloggers)
+**Project Link** - [https://github.com/yourusername/bloggers](https://github.com/iSmileeee/bloggers)
 
 ### Support
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/bloggers/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/bloggers/discussions)
+- 📧 Email: egrageda60@google.com
+- 🐛 Issues: [GitHub Issues](https://github.com/iSmileeee/bloggers/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/iSmileeee/bloggers/discussions)
 
 ---
 
